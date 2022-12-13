@@ -13,5 +13,6 @@ Website cek ongkir sederhana, integrasi dengan API RajaOngkir Starter
 2. Jalankan perintah migrate dan db seed
 3. Jalankan php artisan serve
 
-## Dokumentasi Sistem
-- [<img src="https://drive.google.com/file/d/1HC7nBgwXuzdvzG4pdoLueITg-SLCuQh6/view?usp=share_link" width="50%">](https://drive.google.com/file/d/1d-bukRUJ4HICHgqQd7FSUWiUFJsnyFo9/view?usp=share_link "Now in Android: 55")
+## Demo Sistem
+https://user-images.githubusercontent.com/67513313/207268751-b6713f25-a325-413f-bad8-59407ab0de27.mp4
+
