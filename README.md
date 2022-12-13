@@ -9,7 +9,7 @@ Website cek ongkir sederhana, integrasi dengan API RajaOngkir Starter
 
 ## Pemasangan
 1. Unduh projek dan tambahkan file .env
-2. Konfigurasi database dan tambahkan baris baru di .env API_KEY=api_rajaongkirmu
+2. Konfigurasi database dan tambahkan baris API_KEY=api_rajaongkirmu di .env
 3. Jalankan perintah migrate dan db seed
 4. Jalankan php artisan serve
 
