@@ -14,4 +14,4 @@ Website cek ongkir sederhana, integrasi dengan API RajaOngkir Starter
 3. Jalankan php artisan serve
 
 ## Dokumentasi Sistem
-- [<img src="https://drive.google.com/file/d/1d-bukRUJ4HICHgqQd7FSUWiUFJsnyFo9/view?usp=share_link" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
+- [<img src="https://drive.google.com/file/d/1HC7nBgwXuzdvzG4pdoLueITg-SLCuQh6/view?usp=share_link" width="50%">](https://drive.google.com/file/d/1d-bukRUJ4HICHgqQd7FSUWiUFJsnyFo9/view?usp=share_link "Now in Android: 55")
